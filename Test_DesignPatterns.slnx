@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Test_DesignPatterns(Abstract_Factory)/Abstract_Factory.csproj" />
+  <Project Path="Test_DesignPatterns/Factory_Method.csproj" />
+</Solution>
