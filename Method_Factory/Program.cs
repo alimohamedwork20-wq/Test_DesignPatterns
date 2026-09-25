@@ -4,7 +4,7 @@
     {
         public static void Main(string[] strings)
         {
-            var creator = new VisaCreator();
+            var creator = new VisaFactory();
             IPayment payment = creator.CreatePayment();
             Console.WriteLine(payment.Pay(15));
         }

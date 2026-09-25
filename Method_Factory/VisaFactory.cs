@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Factory_Method
 {
-    public class GooglePayCreator : PaymentCreator
+    public class VisaFactory : PaymentFactory
     {
         public override IPayment CreatePayment()
         {
-            return new GooglePay();
+            return new Visa();
         }
     }
 }

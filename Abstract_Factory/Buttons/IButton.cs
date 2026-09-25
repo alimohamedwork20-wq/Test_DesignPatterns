@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Abstract_Factory.Buttons
+namespace Abstract_Factory1.Buttons
 {
     public interface IButton
     {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Factory_Method
 {
-    public class PayPalCreator : PaymentCreator
+    public class PayPalFactory : PaymentFactory
     {
         public override IPayment CreatePayment()
         {

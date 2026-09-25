@@ -1,17 +1,16 @@
-﻿using Abstract_Factory.CheckBox;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Factory.CheckBox
+namespace Abstract_Factory1.Checkbox
 {
-    public class LightCheckbox : ICheckbox
+    public class DarkModeCheckbox : ICheckbox
     {
         public string Render()
         {
-            return "Light Mode CheckBox";
+            return "DarkMode Checkbox";
         }
     }
 }

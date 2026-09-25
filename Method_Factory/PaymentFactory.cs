@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Abstract_Factory.CheckBox
+namespace Factory_Method
 {
-    public interface ICheckbox
+    public abstract class PaymentFactory
     {
-        string Render();
+        public abstract IPayment CreatePayment();
     }
 }

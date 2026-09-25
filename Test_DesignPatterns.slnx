@@ -1,4 +1,7 @@
 <Solution>
-  <Project Path="Test_DesignPatterns(Abstract_Factory)/Abstract_Factory.csproj" />
-  <Project Path="Test_DesignPatterns/Factory_Method.csproj" />
+  <Project Path="Abstract_Factory1/Abstract_Factory.csproj" Id="d884e933-089a-47c5-8e8e-704e25445a24" />
+  <Project Path="Method_Factory1/Method_Factory.csproj" Id="c9ca6eda-0c45-4b0b-94ee-5c7352483e76" />
+  <Project Path="Observer/Observer.csproj" Id="f480d312-3445-47a2-b7b8-b070bac9f0b1" />
+  <Project Path="Prototype/Prototype.csproj" Id="5ffe2b33-085a-491e-8600-47d35ad13830" />
+  <Project Path="Singleton/Singleton.csproj" Id="3bba357d-15c7-4bcb-84be-96b10c225490" />
 </Solution>

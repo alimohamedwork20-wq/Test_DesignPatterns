@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Factory_Method
+namespace Prototype
 {
-    internal interface IButton
+    public interface IPrototype
     {
+        IPrototype Clone();
+
     }
 }
