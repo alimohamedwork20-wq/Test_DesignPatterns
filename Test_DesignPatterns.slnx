@@ -4,4 +4,5 @@
   <Project Path="Observer/Observer.csproj" Id="f480d312-3445-47a2-b7b8-b070bac9f0b1" />
   <Project Path="Prototype/Prototype.csproj" Id="5ffe2b33-085a-491e-8600-47d35ad13830" />
   <Project Path="Singleton/Singleton.csproj" Id="3bba357d-15c7-4bcb-84be-96b10c225490" />
+  <Project Path="Strategy/Strategy.csproj" Id="6324070b-cfd0-4cb0-ba0b-50569c78d459" />
 </Solution>
