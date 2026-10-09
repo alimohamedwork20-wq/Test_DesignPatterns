@@ -1,8 +1,12 @@
 <Solution>
   <Project Path="Abstract_Factory1/Abstract_Factory.csproj" Id="d884e933-089a-47c5-8e8e-704e25445a24" />
+  <Project Path="Adapter/Adapter.csproj" Id="d21added-7ae3-4b23-8b59-f929182a5d24" />
+  <Project Path="Command/Command.csproj" Id="8bb169d1-17ca-4c6b-ac55-05d53fadea7c" />
+  <Project Path="Decorator/Decorator.csproj" Id="7aac9a99-efb4-4885-b146-e6f271dd7784" />
   <Project Path="Method_Factory1/Method_Factory.csproj" Id="c9ca6eda-0c45-4b0b-94ee-5c7352483e76" />
   <Project Path="Observer/Observer.csproj" Id="f480d312-3445-47a2-b7b8-b070bac9f0b1" />
   <Project Path="Prototype/Prototype.csproj" Id="5ffe2b33-085a-491e-8600-47d35ad13830" />
   <Project Path="Singleton/Singleton.csproj" Id="3bba357d-15c7-4bcb-84be-96b10c225490" />
+  <Project Path="State/State.csproj" Id="e36e3991-a269-4b1a-a833-56d1b3abb966" />
   <Project Path="Strategy/Strategy.csproj" Id="6324070b-cfd0-4cb0-ba0b-50569c78d459" />
 </Solution>
